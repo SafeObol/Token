@@ -27,7 +27,7 @@ Twitter https://twitter.com/SafeObolToken
 Distributed under the MIT License. See LICENSE.txt for more information.
 
 Disclaimer
-SafeObol is not liable for any outcomes as a result of using ERC20,ERC721,ERC721R DYOR.
+SafeObol is not liable for any outcomes as a result of using ERC20 DYOR.
 
 Contact
 SafeObol (owner) - {@SafeObolToken-
